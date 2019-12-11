@@ -14,10 +14,14 @@ The design is about two part:
 
 
 Feather 328p:
+File name: 328p.ino
+software: Arduino
 The base part is about the feather 328p. This part is compiled by arduino. You could upload the code by arduino. Also, you can find the code bellow.
 
 
 Circuit playground express:
+File name:clould.uf2, sun,uf2, river,uf2
+software: makecode
 The canvas part is drived by three circuit playground express boards. You can find the specific boad with the file name. The programming language is about javascript. You can simply put the file into the board，or you can find the code bellow.
 Also, you can open the file with makecode and revise it.
 
